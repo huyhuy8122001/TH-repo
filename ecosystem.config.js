@@ -12,10 +12,10 @@ module.exports = {
       NODE_ENV: 'production',
       LOGLEVEL: 'info',
       HTTP_PORT: 3001,
-      JAMBONZ_ACCOUNT_SID: '9351f46a-678c-43f5-b8a6-d4eb58d131af',
-      JAMBONZ_API_KEY: '1cf2f4f4-64c4-4249-9a3e-5bb4cb597c2a',
+      JAMBONZ_ACCOUNT_SID: 'a1c11f9b-e9b7-4c33-93d0-8d01e8137f11',
+      JAMBONZ_API_KEY: '3dc935d2-989e-4f9a-bebf-553991a66199',
       JAMBONZ_REST_API_BASE_URL: 'http://cpaas61.hq-devlab.cloud',
-      WEBHOOK_SECRET: 'wh_secret_cJqgtMDPzDhhnjmaJH6Mtk',
+      WEBHOOK_SECRET: 'wh_secret_1rxwA8FEcsHcnoCRyiJGRa',
       HTTP_PASSWORD: '',
       HTTP_USERNAME: '',
     }
